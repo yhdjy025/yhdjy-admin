@@ -1,0 +1,12 @@
+body {font-family: '微软雅黑';}
+.table .bg-today {background-color: #1E9FFF;color: white;}
+.table-site-task {overflow: auto;padding: 0;}
+.table-site-task .table {width: 100%}
+.table-site-task td,.table-site-task th {padding: 5px !important;}
+.table-site-task .table-head {position:fixed;top: 0;background: white;width: 100%;display: none;}
+.table-site-task .table-head ul {padding: 0;font-size: 0;margin: 0;}
+.table-site-task .table-head li {display: inline-block;border: 1px solid #ddd;margin: 0;box-sizing: border-box;font-size: 14px;padding: 5px;font-weight: bold;}
+.form-inline .form-group {text-align: left;}
+.task-count .count {font-size: 24px;}
+.task-count p {margin-bottom: 0;}
+.task-count .list-group {margin-bottom: 0;}
